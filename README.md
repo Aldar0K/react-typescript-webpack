@@ -1,0 +1,1 @@
+## Repository for building a react application from scratch (Webpack)
